@@ -1,1 +1,0 @@
-# ranyus.github.io
