@@ -1,0 +1,67 @@
+@article{valerio2017communication,
+  title={A communication efficient distributed learning framework for smart environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  journal={Pervasive and Mobile Computing},
+  volume={41},
+  pages={46--68},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{valerio2018energy,
+  title={Energy efficient distributed analytics at the edge of the network for IoT environments},
+  author={Valerio, Lorenzo and Conti, Marco and Passarella, Andrea},
+  journal={Pervasive and Mobile Computing},
+  volume={51},
+  pages={27--42},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{valerio2022dynamic,
+  title={Dynamic hard pruning of neural networks at the edge of the internet},
+  author={Valerio, Lorenzo and Nardini, Franco Maria and Passarella, Andrea and Perego, Raffaele},
+  journal={Journal of Network and Computer Applications},
+  volume={200},
+  pages={103330},
+  year={2022},
+  publisher={Academic Press}
+}
+
+@article{valerio2021optimising,
+  title={Optimising cost vs accuracy of decentralised analytics in Fog computing environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  journal={IEEE Transactions on Network Science and Engineering},
+  volume={9},
+  number={4},
+  pages={1986--2002},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{cassara2022federated,
+  title={Federated feature selection for cyber-physical systems of systems},
+  author={Cassar{\'a}, Pietro and Gotta, Alberto and Valerio, Lorenzo},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={71},
+  number={9},
+  pages={9937--9950},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{nardi2021centralised,
+  title={Centralised vs decentralised anomaly detection: when local and imbalanced data are beneficial},
+  author={Nardi, Mirko and Valerio, Lorenzo and Passarella, Andrea},
+  booktitle={Third International Workshop on Learning with Imbalanced Domains: Theory and Applications},
+  pages={7--20},
+  year={2021},
+  organization={PMLR}
+}
+
+@article{nardi2022anomaly,
+  title={Anomaly Detection through Unsupervised Federated Learning},
+  author={Nardi, Mirko and Valerio, Lorenzo and Passarella, Andrea},
+  journal={arXiv preprint arXiv:2209.04184},
+  year={2022}
+}

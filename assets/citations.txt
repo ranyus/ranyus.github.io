@@ -1,0 +1,372 @@
+@inproceedings{meroni2010opportunistic,
+  title={An opportunistic platform for android-based mobile devices},
+  author={Meroni, Paolo and Pagani, Elena and Rossi, Gian Paolo and Valerio, Lorenzo},
+  booktitle={Proceedings of the Second International Workshop on Mobile Opportunistic Networking},
+  pages={191--193},
+  year={2010}
+}
+
+@article{apolloni2010relevance,
+  title={Relevance regression learning with support vector machines},
+  author={Apolloni, Bruno and Malchiodi, Dario and Valerio, Lorenzo},
+  journal={Nonlinear Analysis: Theory, Methods \& Applications},
+  volume={73},
+  number={9},
+  pages={2855--2867},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@incollection{malchiodi2009discovering,
+  title={Discovering regression data quality through clustering methods},
+  author={Malchiodi, Dario and Bassis, Simone and Valerio, Lorenzo},
+  booktitle={New Directions in Neural Networks},
+  pages={76--85},
+  year={2009},
+  publisher={IOS Press}
+}
+
+@article{apolloni2011mobility,
+  title={Mobility timing for agent communities, a cue for advanced connectionist systems},
+  author={Apolloni, Bruno and Bassis, Simone and Pagani, Elena and Rossi, Gian Paolo and Valerio, Lorenzo},
+  journal={IEEE transactions on neural networks},
+  volume={22},
+  number={12},
+  pages={2032--2049},
+  year={2011},
+  publisher={IEEE}
+}
+
+@inproceedings{apolloni2011training,
+  title={Training a network of mobile neurons},
+  author={Apolloni, Bruno and Bassis, Simone and Valerio, Lorenzo},
+  booktitle={The 2011 International Joint Conference on Neural Networks},
+  pages={1683--1691},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{apolloni2009toward,
+  title={Toward a space-time mobility model for social communities},
+  author={Apolloni, Bruno and Bassis, Simone and Valerio, Lorenzo},
+  booktitle={Proceeding of the 2009 conference on Neural Nets WIRN09: Proceedings of the 19th Italian Workshop on Neural Nets, Vietri sul Mare, Salerno, Italy, May 28--30 2009},
+  pages={19--28},
+  year={2009},
+  organization={IOS Press}
+}
+
+@inproceedings{apolloni2010wireless,
+  title={Wireless domotic: an enabling platform for granular intelligence},
+  author={Apolloni, Bruno and Bassis, Simone and Galliani, Gian Luca and Valerio, Lorenzo},
+  booktitle={2010 5th International Conference on Future Information Technology},
+  pages={1--6},
+  year={2010},
+  organization={IEEE}
+}
+
+@phdthesis{valerio2012stochastic,
+  title={Stochastic mobility models in space and time},
+  author={VALERIO, Lorenzo and APOLLONI, Bruno and NALDI, Giovanni},
+  year={2012},
+  school={Universit{\`a} Degli Studi di Milano}
+}
+
+@article{arnaboldiandroids,
+  title={Do Androids dream of Opportunistic Applications?},
+  author={Arnaboldi, V and Matozzo, M and Meroni, P and Valerio, L}
+}
+
+@incollection{apolloni2011unified,
+  title={A unified learning space for a network of mobile neurons},
+  author={Apolloni, Bruno and Bassis, Simone and Valerio, Lorenzo},
+  booktitle={Neural Nets WIRN11},
+  pages={292--302},
+  year={2011},
+  publisher={IOS Press}
+}
+
+@inproceedings{mordacchini2013cognitive,
+  title={A cognitive-based solution for semantic knowledge and content dissemination in opportunistic networks},
+  author={Mordacchini, Matteo and Valerio, Lorenzo and Conti, Marco and Passarella, Andrea},
+  booktitle={IEEE WoWMoM workshop on Autonomic and Opportunistic Communications},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{valerio2013autonomic,
+  title={Autonomic Cognitive-based Data Dissemination in Opportunistic Networks},
+  author={Valerio, Lorenzo and Conti, Marco and Pagani, Elena and Passarella, Andrea},
+  booktitle={The 14th International Symposium on a  World of Wireless, Mobile and Multimedia Networks},
+  year={2013}
+}
+
+@techreport{massaro2013local,
+  title={A local algorithm for detecting community structures in dynamic networks},
+  author={Massaro, Emanuele and Guazzini, Andrea and Bagnoli, Franco and Passarella, Andrea and Valerio, Lorenzo},
+  year={2013}
+}
+
+@inproceedings{massaro2013application,
+  title={Application of a cognitive-inspired algorithm for detecting communities in mobility networks},
+  author={Massaro, Emanuele and Guazzini, Andrea and Valerio, Lorenzo and Passerella, Andrea and Bagnoli, Franco},
+  booktitle={2013 International Conference on Cloud and Green Computing},
+  pages={541--546},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{valerio2015scalable,
+  title={Scalable data dissemination in opportunistic networks through cognitive methods},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco and Pagani, Elena},
+  journal={Pervasive and Mobile Computing},
+  volume={16},
+  pages={115--135},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{pagani2015weak,
+  title={Weak social ties improve content delivery in behavior-aware opportunistic networks},
+  author={Pagani, Elena and Valerio, Lorenzo and Rossi, Gian Paolo},
+  journal={Ad Hoc Networks},
+  volume={25},
+  pages={314--329},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{valerio2014adaptive,
+  title={Adaptive data offloading in opportunistic networks through an actor-critic learning method},
+  author={Valerio, Lorenzo and Bruno, Raffaele and Passarella, Andrea},
+  booktitle={Proceedings of the 9th ACM MobiCom workshop on Challenged networks},
+  pages={31--36},
+  year={2014}
+}
+
+@inproceedings{valerio2015offloading,
+  title={Offloading cellular traffic with opportunistic networks: a feasibility study},
+  author={Valerio, Lorenzo and Abdesslemy, F Ben and Lindgreny, A and Bruno, Raffaele and Passarella, Andrea and Luoto, Markus},
+  booktitle={2015 14th Annual Mediterranean Ad Hoc Networking Workshop (MED-HOC-NET)},
+  pages={1--8},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{valerio2015cellular,
+  title={Cellular traffic offloading via Opportunistic Networking with Reinforcement Learning},
+  author={Valerio, Lorenzo and Bruno, Raffaele and Passarella, Andrea},
+  journal={Computer Communications},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{rebecchi2015joint,
+  title={A joint multicast/D2D learning-based approach to LTE traffic offloading},
+  author={Rebecchi, Filippo and Valerio, Lorenzo and Bruno, Raffaele and Conan, Vania and De Amorim, Marcelo Dias and Passarella, Andrea},
+  journal={Computer Communications},
+  volume={72},
+  pages={26--37},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{mordacchini2016design,
+  title={Design and evaluation of a cognitive approach for disseminating semantic knowledge and content in opportunistic networks},
+  author={Mordacchini, Matteo and Valerio, Lorenzo and Conti, Marco and Passarella, Andrea},
+  journal={Computer Communications},
+  volume={81},
+  pages={12--30},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{rebecchi2016strategie,
+  title={Strat{\'e}gie d'apprentissage pour le multicast LTE avec communications D2D},
+  author={Rebecchi, Filippo and Valerio, Lorenzo and Bruno, Raffaele and Conan, Vania and de Amorim, Marcelo Dias and Passarella, Andrea},
+  booktitle={Rencontres francophones sur la conception de protocoles, l'{\'e}valuation de performance et l'exp{\'e}rimentation des r{\'e}seaux de communication (CoRes 2016)},
+  year={2016}
+}
+
+@inproceedings{valerio2016hypothesis,
+  title={Hypothesis transfer learning for efficient data computing in smart cities environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={2016 IEEE International Conference on Smart Computing (SMARTCOMP)},
+  pages={1--8},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{valerio2016accuracy,
+  title={Accuracy vs. traffic trade-off of Learning IoT Data Patterns at the Edge with Hypothesis Transfer Learning},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={2nd International Forum on Research and Technologies for Society and Industry},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{valerio2016special,
+  title={Special Section on Opportunistic Communication and Computation},
+  author={Valerio, Lorenzo and Mordacchini, Matteo},
+  journal={Computer Communications},
+  volume={100},
+  number={96},
+  pages={109},
+  year={2016}
+}
+
+@inproceedings{apolloni2010moving,
+  title={A moving agent metaphor to model some motions of the brain actors},
+  author={Apolloni, B and Bassis, S and Valerio, L},
+  booktitle={Conference “Evolution in Communication and Neural Processing from First Organisms and Plants to Man... and Beyond},
+  pages={18--19},
+  year={2010}
+}
+
+@inproceedings{valerio2017optimal,
+  title={Optimal trade-off between accuracy and network cost of distributed learning in Mobile Edge Computing: An analytical approach},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={2017 IEEE 18th International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM)},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{valerio2017communication,
+  title={A communication efficient distributed learning framework for smart environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  journal={Pervasive and Mobile Computing},
+  volume={41},
+  pages={46--68},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{valerio2018energy,
+  title={Energy efficient distributed analytics at the edge of the network for IoT environments},
+  author={Valerio, Lorenzo and Conti, Marco and Passarella, Andrea},
+  journal={Pervasive and Mobile Computing},
+  volume={51},
+  pages={27--42},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{apolloni2011kinetic,
+  title={Kinetic Morphogenesis of a Multilayer Perceptron.},
+  author={Apolloni, Bruno and Bassis, Simone and Valerio, Lorenzo},
+  booktitle={IJCCI (NCTA)},
+  pages={99--105},
+  year={2011}
+}
+
+@incollection{valerio2019efficient,
+  title={Efficient Distributed Learning in 5G Fog Computing Environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={The 5G Italy Book 2019: a Multiperspective View of 5G},
+  year={2019},
+  publisher={CNIT}
+}
+
+@inproceedings{karkkainen2016here,
+  title={Here\&now: data-centric local social interactions through opportunistic networks},
+  author={K{\"a}rkk{\"a}inen, Teemu and Houghton, Paul and Valerio, Lorenzo and Passarella, Andrea and Ott, J{\"o}rg},
+  booktitle={Proceedings of the Eleventh ACM Workshop on Challenged Networks},
+  pages={37--38},
+  year={2016}
+}
+
+@inproceedings{valerio2019apprendimento,
+  title={Apprendimento distribuito e federato basato su Hypothesis Transfer Learning},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={Ital-IA - Convegno Nazionale CINI sull'Intelligenza Artificiale},
+  year={2019}
+}
+
+@inproceedings{nardini2019apprendimento,
+  title={Apprendimento di Reti Neurali su Dispositivi a Risorse Limitate},
+  author={Nardini, Franco Maria and Valerio, Lorenzo and Passarella, Andrea and Perego, Raffaele},
+  booktitle={Ital-IA - Convegno Nazionale CINI sull'Intelligenza Artificiale},
+  year={2019}
+}
+
+@inproceedings{nardini2019learning,
+  title={Learning Effective Neural Networks on Resource-Constrained Devices},
+  author={Nardini, Franco Maria and Valerio, Lorenzo and Perego, Raffaele and Passarella, Andrea},
+  booktitle={2019 I-RIM Conference},
+  pages={177--178},
+  year={2019}
+}
+
+@article{valerio2022dynamic,
+  title={Dynamic hard pruning of neural networks at the edge of the internet},
+  author={Valerio, Lorenzo and Nardini, Franco Maria and Passarella, Andrea and Perego, Raffaele},
+  journal={Journal of Network and Computer Applications},
+  volume={200},
+  pages={103330},
+  year={2022},
+  publisher={Academic Press}
+}
+
+@article{valerio2021optimising,
+  title={Optimising cost vs accuracy of decentralised analytics in Fog computing environments},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  journal={IEEE Transactions on Network Science and Engineering},
+  volume={9},
+  number={4},
+  pages={1986--2002},
+  year={2021},
+  publisher={IEEE}
+}
+
+@inproceedings{valerio2019hypothesis,
+  title={Hypothesis Transfer Learning for Distributed Knowledge Extraction by Intelligent Machines},
+  author={Valerio, Lorenzo and Passarella, Andrea and Conti, Marco},
+  booktitle={2019 I-RIM Conference},
+  pages={96--97},
+  year={2019},
+  organization={10.5281/zenodo.4782455}
+}
+
+@article{cassara2022federated,
+  title={Federated feature selection for cyber-physical systems of systems},
+  author={Cassar{\'a}, Pietro and Gotta, Alberto and Valerio, Lorenzo},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={71},
+  number={9},
+  pages={9937--9950},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{nardi2021centralised,
+  title={Centralised vs decentralised anomaly detection: when local and imbalanced data are beneficial},
+  author={Nardi, Mirko and Valerio, Lorenzo and Passarella, Andrea},
+  booktitle={Third International Workshop on Learning with Imbalanced Domains: Theory and Applications},
+  pages={7--20},
+  year={2021},
+  organization={PMLR}
+}
+
+@inproceedings{bajovic2021marvel,
+  title={Marvel: Multimodal extreme scale data analytics for smart cities environments},
+  author={Bajovic, Dragana and Bakhtiarnia, Arian and Bravos, George and Brutti, Alessio and Burkhardt, Felix and Cauchi, Daniel and Chazapis, Antony and Cianco, Claire and Dall’Asen, Nicola and Delic, Vlado and others},
+  booktitle={2021 International Balkan Conference on Communications and Networking (BalkanCom)},
+  pages={143--147},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{bano2022federated,
+  title={Federated Semi-Supervised Classification of Multimedia Flows for 3D Networks},
+  author={Bano, Saira and Machumilane, Achilles and Valerio, Lorenzo and Cassar{\`a}, Pietro and Gotta, Alberto},
+  booktitle={2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)},
+  pages={165--170},
+  year={2022},
+  organization={IEEE}
+}
+
+@article{nardi2022anomaly,
+  title={Anomaly Detection through Unsupervised Federated Learning},
+  author={Nardi, Mirko and Valerio, Lorenzo and Passarella, Andrea},
+  journal={arXiv preprint arXiv:2209.04184},
+  year={2022}
+}
